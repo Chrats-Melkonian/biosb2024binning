@@ -23,12 +23,12 @@ Metagenomics binning is a key step in reconstructing genomes from microbial comm
 
 The workshop includes hands-on exercises with real metagenomic datasets and step-by-step guidance on a simple binning apporch.
 
-## Dataset explanation
+## Introduction
 Dataset explanation:
 
--In this practical session, you will process raw sequencing reads to achieve taxonomic characterization of metagenome-assembled genomes (MAGs).
--For this experiment, we have collected two samples from a toxic biofilm in a Romanian cave that emits greenhouse gases, along with one methane-enriched sample from the lab.
--Your task is to identify the community members capable of methane consumption and the associated gene clusters responsible for this process.
+- In this practical session, you will process raw sequencing reads to achieve taxonomic characterization of metagenome-assembled genomes (MAGs).
+- For this experiment, we have collected two samples from a toxic biofilm in a Romanian cave that emits greenhouse gases, along with one methane-enriched sample from the lab.
+- Your task is to identify the community members capable of methane consumption and the associated gene clusters responsible for this process.
 
 ## Datasets
 For this workshop, we will use publicly available metagenomics datasets with the following command:
