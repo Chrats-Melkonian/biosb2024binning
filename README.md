@@ -41,9 +41,11 @@ The datasets from their respective sources or from the provided links in the `da
 
 <div style="background-color: #f0f8ff; border: 1px solid #dcdcdc; padding: 10px; border-radius: 5px;">
   
-### Learning Objective
-
-The goal of this section is to understand the basic concepts of X, Y, and Z, and apply them to solve real-world problems.
+Learning Objective
+  
+- Understand the basic concepts of X
+- Learn the principles of Y
+- Apply the knowledge of Z to solve real-world problems
   
 </div>
 
@@ -53,7 +55,8 @@ To install the necessary software, follow these steps:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/metagenomics-binning-workshop.git
-   cd metagenomics-binning-workshop```
+   cd metagenomics-binning-workshop
+   ```
 
 
 
