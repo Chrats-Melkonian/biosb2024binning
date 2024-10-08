@@ -48,10 +48,10 @@ Learning Objective
 - Apply the knowledge of Z to solve real-world problems
   
 </div>
-!!! important "Learning objectives"
-    - Understanding the FastQ format
-    - Interpret FastQC reports
-    - Create high quality reads by trimmign and filtering with FastP and BBduk
+> **Important: Learning objectives**
+> - Understanding the FastQ format
+> - Interpret FastQC reports
+> - Create high quality reads by trimming and filtering with FastP and BBduk
 
 ## FastQ format
 
