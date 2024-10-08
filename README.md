@@ -38,7 +38,7 @@ wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10036470/*
 The datasets from their respective sources or from the provided links in the `datasets/` folder.
 
 ## Quality Control 
-> [!NOTE]
+> [!Learning Objective]
 > Useful information that users should know, even when skimming content.
 <div style="background-color: #f0f8ff; border: 1px solid #dcdcdc; padding: 10px; border-radius: 5px;">
   
