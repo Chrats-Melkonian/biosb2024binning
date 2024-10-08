@@ -32,8 +32,8 @@ Dataset explanation:
 
 ## Datasets
 For this workshop, we will use publicly available metagenomics datasets with the following command:
-	```bash
-	wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10036470/*
+    ```bash
+    wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10036470/*
 
 The datasets from their respective sources or from the provided links in the `datasets/` folder.
 
