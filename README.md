@@ -6,12 +6,11 @@ Welcome to the Metagenomics Binning Workshop from Computational Metagenomics (Bi
 - [Workshop Overview](#workshop-overview)
 - [Introduction](#introduction)
 - [Datasets](#datasets)
-- [Workshop Modules](#workshop-modules)
-- [Installation & Setup](#installation--setup)
-- [Exercises](#exercises)
-- [Troubleshooting & Support](#troubleshooting--support)
-- [License](#license)
-
+- [Quality Control](#quality-control )
+- [Read-based approches](#read-based-approches)
+- [Assembly](#assembly)
+- [Binning](#binning)
+- [Investigation](#Investigation)
 ## Workshop Overview
 Metagenomics binning is a key step in reconstructing genomes from microbial communities, allowing researchers to study unculturable microorganisms. In this workshop, you will:
 
@@ -38,20 +37,32 @@ wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR100/ERR10036470/*
 
 The datasets from their respective sources or from the provided links in the `datasets/` folder.
 
-## Workshop Modules
-1. **Introduction to Metagenomics Binning**: Overview of binning principles and theory.
-2. **Metagenomic Assembly**: Using `SPAdes` for metagenomic assembly.
-3. **Binning with MetaBAT**: Step-by-step instructions on binning with MetaBAT.
-4. **Binning with MaxBin**: Using MaxBin for automated binning.
-5. **Binning with CONCOCT**: Clustering contigs using CONCOCT.
-6. **Assessing Bin Quality with CheckM**: Genome bin quality control.
-7. **Refining Bins and Reassembly**: Tips for improving binning results and reassembly.
-8. **Visualization & Analysis**: Visualizing bin results and interpreting data.
+## Quality Control 
 
-## Installation & Setup
+<div style="background-color: #f0f8ff; border: 1px solid #dcdcdc; padding: 10px; border-radius: 5px;">
+  
+### Learning Objective
+
+The goal of this section is to understand the basic concepts of X, Y, and Z, and apply them to solve real-world problems.
+  
+</div>
+
+## Read-based approches
 To install the necessary software, follow these steps:
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/your_username/metagenomics-binning-workshop.git
-   cd metagenomics-binning-workshop
+   cd metagenomics-binning-workshop```
+
+
+
+## Read-based approches
+
+
+## Assembly
+
+
+## Binning
+
+## Investigation
